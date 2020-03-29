@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ebender001/todoapp.git/static/css/main.b5c44932.chunk.css",
+    "main.js": "/ebender001/todoapp.git/static/js/main.21bf7b71.chunk.js",
+    "main.js.map": "/ebender001/todoapp.git/static/js/main.21bf7b71.chunk.js.map",
+    "runtime-main.js": "/ebender001/todoapp.git/static/js/runtime-main.4b0e709c.js",
+    "runtime-main.js.map": "/ebender001/todoapp.git/static/js/runtime-main.4b0e709c.js.map",
+    "static/js/2.0e59fdc7.chunk.js": "/ebender001/todoapp.git/static/js/2.0e59fdc7.chunk.js",
+    "static/js/2.0e59fdc7.chunk.js.map": "/ebender001/todoapp.git/static/js/2.0e59fdc7.chunk.js.map",
+    "index.html": "/ebender001/todoapp.git/index.html",
+    "precache-manifest.996c4bc3d5b0fee860b39ba088615a13.js": "/ebender001/todoapp.git/precache-manifest.996c4bc3d5b0fee860b39ba088615a13.js",
+    "service-worker.js": "/ebender001/todoapp.git/service-worker.js",
+    "static/css/main.b5c44932.chunk.css.map": "/ebender001/todoapp.git/static/css/main.b5c44932.chunk.css.map",
+    "static/js/2.0e59fdc7.chunk.js.LICENSE.txt": "/ebender001/todoapp.git/static/js/2.0e59fdc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b0e709c.js",
+    "static/js/2.0e59fdc7.chunk.js",
+    "static/css/main.b5c44932.chunk.css",
+    "static/js/main.21bf7b71.chunk.js"
+  ]
+}
